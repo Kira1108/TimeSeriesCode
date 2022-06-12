@@ -2,3 +2,4 @@ __pycache__
 data_files
 *.pyc
 .ipynb_checkpoints
+.DS_Store
